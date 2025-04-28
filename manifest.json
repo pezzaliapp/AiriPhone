@@ -1,0 +1,20 @@
+{
+  "name": "AiriPhone",
+  "short_name": "AiriPhone",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#3baee5",
+  "icons": [
+    {
+      "src": "icon/airiphone-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/airiphone-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
